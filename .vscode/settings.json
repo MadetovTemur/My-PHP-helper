@@ -1,0 +1,45 @@
+{
+	/* Palgins
+	<<<Brackets Keymap,	Atom One Dark Theme, Material Icon Theme,
+	<<<Auto Rename Tag,
+	*/
+	"workbench.startupEditor": "none",
+	"terminal.integrated.fontSize": 14.5,
+	"editor.smoothScrolling": true,
+	"editor.lineHeight": 23,
+  "editor.tabSize": 2,
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "Consolas, 'Courier New', monospace ",
+	"editor.linkedEditing": true,
+	"editor.stickyScroll.enabled": true,
+	"editor.minimap.showSlider": "always",
+	"editor.minimap.size": "fit",
+	"editor.minimap.enabled": false,
+	"editor.multiCursorModifier": "alt",
+	"files.autoSave": "afterDelay",
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "boundary",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "html.format.extraLiners": "",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Default Dark+",
+  "editor.accessibilitySupport": "off",
+  "editor.folding": true,
+  "editor.glyphMargin": false,
+  "editor.hover.enabled": false,
+  // "editor.cursorStyle": "line-thin",
+  "editor.insertSpaces": false,
+	"liveServer.settings.donotVerifyTags": true,
+	"cssrem.vw": true,
+	"cssrem.rootFontSize": 15,
+	"auto-rename-tag.activationOnLanguage": [
+		"html",
+		"xml",
+		"php",
+		"javascript"
+	],
+	"dataworkspace.excludedProjects": [
+		"Mysqlserver/Mysqlserver.sqlproj"
+	]
+}
