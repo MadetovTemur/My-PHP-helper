@@ -1,5 +1,7 @@
 <?php
 
+# mantiqiy amal
+
 # 01;
 // $x = 0;
 // $y = 0;
